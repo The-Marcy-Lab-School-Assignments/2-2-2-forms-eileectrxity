@@ -26,12 +26,12 @@
     "FrScTe15": "From Scratch Tests has a checkbox input and label",
     "FrScTe16": "From Scratch Tests has a checkbox input and label",
     "FrScTe17": "From Scratch Tests has a submit button for the form",
-    "FrScTe18": "From Scratch Tests Submission correctly prevents the default form behavior",
-    "FrScTe19": "From Scratch Tests Submission gets the right username and updates the result span",
-    "FrScTe20": "From Scratch Tests Submission gets the right coding level and updates the result span",
-    "FrScTe21": "From Scratch Tests Submission gets the right location and updates the result span",
-    "FrScTe22": "From Scratch Tests Submission gets the right didLikeAssignment and updates the results span to Yes or No",
-    "FrScTe23": "From Scratch Tests Submission resets the forms values",
+    "FrScTe18": "From Scratch Tests has a submit button for the form",
+    "FrScTe19": "From Scratch Tests Submission correctly prevents the default form behavior",
+    "FrScTe20": "From Scratch Tests Submission gets the right username and updates the result span",
+    "FrScTe21": "From Scratch Tests Submission gets the right coding level and updates the result span",
+    "FrScTe22": "From Scratch Tests Submission gets the right location and updates the result span",
+    "FrScTe23": "From Scratch Tests Submission gets the right didLikeAssignment and updates the results span to Yes or No",
     "FrScTe24": "From Scratch Tests Submission resets the forms values"
   },
   "testNameToIdHash": {
@@ -60,9 +60,9 @@
     "From Scratch Tests has a checkbox input and label": "FrScTe16",
     "From Scratch Tests has a submit button": "FrScTe18",
     "From Scratch Tests has a submit button as the final element of the form": "FrScTe18",
-    "From Scratch Tests has a submit button for the form": "FrScTe17",
+    "From Scratch Tests has a submit button for the form": "FrScTe18",
     "From Scratch Tests Submission updates the username results span": "FrScTe19",
-    "From Scratch Tests Submission correctly prevents the default form behavior": "FrScTe18",
+    "From Scratch Tests Submission correctly prevents the default form behavior": "FrScTe19",
     "From Scratch Tests Submission updates with the right username": "FrScTe20",
     "From Scratch Tests Submission updates with the right location": "FrScTe21",
     "From Scratch Tests Submission updates to the right username": "FrScTe20",
@@ -71,14 +71,14 @@
     "From Scratch Tests has radio buttons and labels, with the right default value starting checked": "FrScTe10",
     "From Scratch Tests Submission updates to the right didLikeAssignment": "FrScTe23",
     "From Scratch Tests Submission resets the form": "FrScTe23",
-    "From Scratch Tests Submission resets the forms values": "FrScTe23",
+    "From Scratch Tests Submission resets the forms values": "FrScTe24",
     "From Scratch Tests Submission updates to Yes or No for the 'did they like assignment' checkbox": "FrScTe23",
     "From Scratch Tests Submission updates to Yes or No for the 'did you like assignment' checkbox": "FrScTe23",
     "From Scratch Tests Submission updates to Yes or No for the checkbox": "FrScTe23",
-    "From Scratch Tests Submission gets the right username and updates the result span": "FrScTe19",
-    "From Scratch Tests Submission gets the right coding level and updates the result span": "FrScTe20",
-    "From Scratch Tests Submission gets the right location and updates the result span": "FrScTe21",
-    "From Scratch Tests Submission gets the right didLikeAssignment and updates the results span to Yes or No": "FrScTe22"
+    "From Scratch Tests Submission gets the right username and updates the result span": "FrScTe20",
+    "From Scratch Tests Submission gets the right coding level and updates the result span": "FrScTe21",
+    "From Scratch Tests Submission gets the right location and updates the result span": "FrScTe22",
+    "From Scratch Tests Submission gets the right didLikeAssignment and updates the results span to Yes or No": "FrScTe23"
   },
   "testScores": {
     "From Scratch Tests": {
@@ -104,7 +104,8 @@
       "FrScTe20": 0,
       "FrScTe21": 0,
       "FrScTe22": 0,
-      "FrScTe23": 0
+      "FrScTe23": 0,
+      "FrScTe24": 0
     },
     "Modify Tests": {
       "MoTe1": 0,
@@ -119,8 +120,8 @@
     }
   },
   "humanReadable": {
-    "From Scratch Tests": "0/23",
-    "finalTestScore": "FINAL SCORE: 0/32",
+    "From Scratch Tests": "0/24",
+    "finalTestScore": "FINAL SCORE: 0/33",
     "Modify Tests": "0/9"
   }
 }
